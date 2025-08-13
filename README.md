@@ -27,7 +27,7 @@ cd minty-list
 ```powershell
 pnpm install
 # or
-npm install --forece --legacy-peer-deps
+npm install --force --legacy-peer-deps
 ```
 
 ### 3. Configure Environment Variables
